@@ -21,6 +21,3 @@ SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += \
     $(MTK_SEPOLICY_PATH)/basic/plat_private \
     $(MTK_SEPOLICY_PATH)/bsp/plat_private \
     $(MTK_SEPOLICY_PATH)/full/plat_private
-
-# Inherit Custom sepolicy for mediatek devices
--include device/custom/sepolicy/mediatek/sepolicy.mk
