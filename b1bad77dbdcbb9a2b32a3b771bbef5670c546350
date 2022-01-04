@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "097ff49f_d8faa007",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2022-01-04T04:31:36Z",
+      "side": 1,
+      "message": "isn\u0027t it more like Pixel Experience makefile than BSP.",
+      "revId": "b1bad77dbdcbb9a2b32a3b771bbef5670c546350",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
